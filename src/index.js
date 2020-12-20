@@ -1,4 +1,4 @@
-import '/main';
+import './css/main';
 import colors from './js/color';
 
 const body = document.querySelector('body');
